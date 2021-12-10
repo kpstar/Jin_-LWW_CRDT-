@@ -1,0 +1,12 @@
+CRDT_LWW_TEST
+
+- Coder: Jin rizhe
+
+- Prerequisite
+
+Node.js (NPM)
+
+npm install
+npm run test.
+
+Thanks.
